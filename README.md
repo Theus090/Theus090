@@ -14,12 +14,7 @@
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65"  alt="TypeScript" />
-      <br>TypeScript
-    </td>
   </tr>
-
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Github" />
