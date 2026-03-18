@@ -5,11 +5,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
-  <!-- <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React Native" />
-      <br>React Native
-    </td> -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
@@ -37,7 +32,6 @@
       <br>HTML5
     </td>
   </tr>
-
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
