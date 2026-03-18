@@ -1,6 +1,6 @@
 ## 👨‍💻 about me
 - Sou um estudante Técnico **Desenvolvimento de Sistemas** do **SENAI**.
-- Apaixonado por tecnologia, com foco em aprimorar minhas habilidades em **desenvolvimento websites**.
+- Apaixonado por progamação, com foco em aprimorar minhas habilidades em **desenvolvimento websites**.
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -9,7 +9,6 @@
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-  </tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
@@ -18,21 +17,16 @@
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Github" />
-      <br>Github
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
@@ -70,9 +64,16 @@
       </a>
       <br>LinkedIn
     </td>
-  </tr>
+
 </table>
 
 ### 📊 GitHub Stats
 ![Theus090 GitHub stats](https://github-readme-stats.vercel.app/api?username=Theus090&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theus090&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300)](https://github.com/Anuraghazra)
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Theus090/Theus090/blob/output/github-contribution-grid-snake.svg)
