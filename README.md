@@ -5,18 +5,14 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
-  <tr>
+  <!-- <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React Native" />
       <br>React Native
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
-    </td>
-       <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65"  alt="TypeScript" />
