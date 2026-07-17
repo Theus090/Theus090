@@ -67,13 +67,4 @@
 
 </table>
 
-### 📊 GitHub Stats
-![Theus090 GitHub stats](https://github-readme-stats.vercel.app/api?username=Theus090&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theus090&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300)](https://github.com/Anuraghazra)
-
----
-
-### 🐍 Contribution Snake
-
 ![Snake animation](https://github.com/Theus090/Theus090/blob/output/github-contribution-grid-snake.svg)
