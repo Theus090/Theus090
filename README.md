@@ -28,7 +28,7 @@
 
 <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=react" width="48" alt="React Native" /><br>
-       Native
+   React Native
     </td>
 
 
