@@ -67,4 +67,4 @@
 
 </table>
 
-![Snake animation](https://github.com/Theus090/Theus090/blob/output/github-contribution-grid-snake.svg)
+
