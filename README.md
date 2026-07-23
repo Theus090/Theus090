@@ -5,39 +5,53 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br>
+      JavaScript
+    </td>
+
+ <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" /><br>
+      CSS
+    </td>
+
+ <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" /><br>
+      PostgreSQL
+    </td>
+
+<td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /><br>
+      React
+    </td>
+
+<td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="48" alt="React Native" /><br>
+       Native
+    </td>
+
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" /><br>
+      HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" /><br>
+      Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
-      <br>NPM
+      <img src="https://skillicons.dev/icons?i=npm" width="48" alt="NPM" /><br>
+      NPM
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br>
+      Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" /><br>
+      VS Code
     </td>
   </tr>
 </table>
