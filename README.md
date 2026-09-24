@@ -80,5 +80,23 @@
     </td>
 
 </table>
+<h3 align="left">📊 GitHub Contributions:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Theus090&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theus090&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="left">🐍 Contribution Snake:</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Theus090/Theus090/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
 
 
