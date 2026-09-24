@@ -18,12 +18,14 @@ jobs:
         with:
           github_user_name: Theus090
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%238A2BE2&color_dots=%231C1C1C,%235A189A,%237B2CBF,%239C4DFF,%2300BFFF
+            dist/github-contribution-grid-snake.svg?color_snake=%238A2BE2&color_dots=%230D1117,%2300441B,%23006D2C,%2300A83B,%2300D94F
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%238A2BE2&color_dots=%230D1117,%2300441B,%23006D2C,%2300A83B,%2300D94F
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: Update contribution snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
