@@ -80,7 +80,7 @@
     </td>
 
 </table>
-### 📊 GitHub Stats
+📊 GitHub Stats
 <div align="center">
 
 <img height="180em" src="https://seu-dominio.vercel.app/api?username=Muryllost&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600"/> 
