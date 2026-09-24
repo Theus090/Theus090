@@ -80,23 +80,26 @@
     </td>
 
 </table>
-<h3 align="left">📊 GitHub Contributions:</h3>
+### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theus090&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<img height="180em" src="https://seu-dominio.vercel.app/api?username=Muryllost&show_icons=true&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=600"/> 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theus090&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img height="180em" src="https://seu-dominio.vercel.app/api/top-langs/?username=Theus090&layout=compact&title_color=8A2BE2&text_color=FFFFFF&icon_color=00BFFF&bg_color=1C1C1C&border_radius=15&hide_border=true&cache_seconds=2300"/>
 
----
+<!-- <img src="https://streak-stats.demolab.com/?user=Theus090&background=1C1C1C&ring=8A2BE2&fire=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=true&border_radius=15" /> -->
+</div>
 
-<h3 align="left">🐍 Contribution Snake:</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Theus090/Theus090/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theus090/Theus090/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Theus090/Theus090/output/github-contribution-grid-snake.svg">
+
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Theus090/Theus090/output/github-contribution-grid-snake.svg">
+
+</picture>
 
 
 
