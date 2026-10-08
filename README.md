@@ -73,7 +73,7 @@
       <br>Instagram
     </td>
     <td align="center" width="130">
-      <a href="https://www.linkedin.com/in/matheus-santos-b18098343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+      <a href="https://www.linkedin.com/in/matheus-santos-da-silva-b18098343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" alt="LinkedIn" />
       </a>
       <br>LinkedIn
